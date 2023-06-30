@@ -1,0 +1,175 @@
+.asset-1-14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 2591px;
+  height: 1728px;
+  overflow: hidden;
+  opacity: 0.6;
+}
+.smartopt-one-touch-1-icon5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1155px;
+  height: 1690px;
+  object-fit: cover;
+}
+.child4 {
+  position: absolute;
+  top: 336px;
+  left: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(25, 62, 55, 0),
+    rgba(18, 44, 39, 0.47) 30.21%,
+    #0c1d19
+  );
+  width: 1728px;
+  height: 336px;
+}
+.child5,
+.tessera-2-icon5 {
+  position: absolute;
+  top: 378px;
+  left: 385px;
+  width: 166px;
+  height: 166px;
+}
+.tessera-2-icon5 {
+  top: 55px;
+  left: 52px;
+  width: 238px;
+  height: 72px;
+  object-fit: cover;
+}
+.smartopt6 {
+  font-weight: 600;
+}
+.smartopt-one-container11 {
+  line-break: anywhere;
+  width: 100%;
+}
+.smartopt-one-container10 {
+  position: absolute;
+  top: -240px;
+  left: 594px;
+  font-size: var(--font-size-31xl);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  width: 539px;
+  height: 59px;
+}
+.scopri-il-terminale5 {
+  position: absolute;
+  top: -121px;
+  left: 783px;
+  width: 161.3px;
+  height: 18.93px;
+}
+.contactlesspayment-svgrepo-com-icon1 {
+  position: absolute;
+  top: 232px;
+  left: 1003px;
+  width: 130px;
+  height: 130px;
+  overflow: hidden;
+}
+.equipped-with-ingenicos1,
+.innovativo-contactless-one-container2 {
+  position: absolute;
+  top: 362px;
+  left: 976px;
+  display: flex;
+  align-items: center;
+  width: 539px;
+  height: 136px;
+}
+.equipped-with-ingenicos1 {
+  top: 520px;
+  font-size: var(--font-size-5xl);
+  line-height: 38px;
+  font-weight: 300;
+  height: 174px;
+}
+.child6,
+.line-div {
+  position: absolute;
+  top: -102px;
+  left: 1013px;
+  border-right: 2px solid var(--color-darkgray-200);
+  box-sizing: border-box;
+  width: 2px;
+  height: 93px;
+  opacity: 0;
+}
+.child6 {
+  top: 96px;
+}
+.confronta-i-modelli {
+  margin: 0;
+  font-weight: 500;
+}
+.smartopt7 {
+  margin: 0;
+  font-weight: 800;
+}
+.confronta-i-modelli-container {
+  position: absolute;
+  top: 1117px;
+  left: 5899px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  width: 539px;
+  height: 136px;
+}
+.paga-con-un {
+  font-weight: 500;
+}
+.tocco {
+  font-weight: 800;
+  font-family: var(--font-kumbh-sans);
+}
+.paga-con-un-tocco {
+  margin: 0;
+}
+.accedi-con-un-container,
+.one-touch-lultima {
+  position: absolute;
+  top: -237px;
+  left: 976px;
+  display: flex;
+  align-items: center;
+  width: 539px;
+  height: 136px;
+  opacity: 0;
+}
+.one-touch-lultima {
+  top: 176px;
+  font-size: var(--font-size-5xl);
+  line-height: 38px;
+  font-weight: 300;
+  height: 174px;
+}
+.touch-id-svgrepo-com-1-icon {
+  position: absolute;
+  top: 7px;
+  left: 999.18px;
+  width: 58.49px;
+  height: 58.49px;
+  overflow: hidden;
+  opacity: 0;
+}
+.div6 {
+  position: relative;
+  background: radial-gradient(50% 50%at 50% 50%, #244942, #133730);
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-26xl);
+  color: var(--color-white);
+  font-family: var(--font-kumbh-sans);
+}

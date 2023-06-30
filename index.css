@@ -1,0 +1,193 @@
+.asset-1-18,
+.landing-start-child {
+  position: absolute;
+  top: 0;
+  left: 2px;
+  width: 1726px;
+  height: 1151px;
+  overflow: hidden;
+}
+.landing-start-child {
+  height: 5.97%;
+  width: 1.23%;
+  top: 22.29%;
+  right: 49.79%;
+  bottom: 71.74%;
+  left: 48.98%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.smartopt11 {
+  font-weight: 600;
+}
+.smartopt-one-container19 {
+  line-break: anywhere;
+  width: 100%;
+}
+.smartopt-one-container18 {
+  position: absolute;
+  top: 194px;
+  left: 543px;
+  display: flex;
+  align-items: center;
+  width: 645px;
+  height: 59px;
+}
+.scopri-il-terminale9 {
+  position: absolute;
+  top: 340px;
+  left: 766px;
+  width: 196px;
+  height: 23px;
+  display: none;
+  cursor: pointer;
+}
+.scroll-till-the {
+  position: absolute;
+  top: 29.72%;
+  left: calc(50% - 107px);
+  font-size: 27px;
+  color: #bbb;
+  cursor: pointer;
+}
+.smartopt-one-touch-1-icon9 {
+  position: absolute;
+  top: 293px;
+  left: 433px;
+  width: 861px;
+  height: 1089px;
+  object-fit: cover;
+}
+.landing-start-item {
+  position: absolute;
+  top: 578px;
+  left: 0;
+  background: linear-gradient(180deg, rgba(25, 62, 55, 0), #0c1d19);
+  width: 1728px;
+  height: 539px;
+}
+.icon-chevron-down {
+  position: absolute;
+  height: 1.76%;
+  width: 1.88%;
+  top: 93.38%;
+  right: 49.08%;
+  bottom: 4.86%;
+  left: 49.04%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.about-us,
+.product,
+.services {
+  position: absolute;
+  height: 95.83%;
+  width: 11.52%;
+  top: 1.39%;
+  left: 38.99%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.product,
+.services {
+  left: 52.09%;
+}
+.product {
+  left: 65.13%;
+}
+.tessera-2-icon8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 238px;
+  height: 72px;
+  object-fit: cover;
+}
+.group-child,
+.premium {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+.group-child {
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: 10px;
+  background-color: #0c221e;
+}
+.premium {
+  width: 85.97%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.vector-icon2 {
+  position: absolute;
+  height: 33.93%;
+  width: 7.24%;
+  top: 33.93%;
+  right: 14.03%;
+  bottom: 32.14%;
+  left: 78.73%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent {
+  position: absolute;
+  height: 77.78%;
+  width: 13.99%;
+  top: 11.11%;
+  right: 5.76%;
+  bottom: 11.11%;
+  left: 80.25%;
+  font-size: 20px;
+  color: #ebebeb;
+}
+.vector-icon3 {
+  position: absolute;
+  height: 31.94%;
+  width: 2.91%;
+  top: 33.33%;
+  right: 0;
+  bottom: 34.72%;
+  left: 97.09%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.about-us-parent,
+.navbar {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.navbar {
+  height: 6.45%;
+  width: 91.44%;
+  top: 4.92%;
+  right: 5.44%;
+  bottom: 88.63%;
+  left: 3.13%;
+  font-size: var(--font-size-3xl);
+}
+.landing-start {
+  position: relative;
+  background: radial-gradient(50% 50%at 50% 50%, #244942, #133730);
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 59px;
+  color: var(--color-white);
+  font-family: var(--font-kumbh-sans);
+}

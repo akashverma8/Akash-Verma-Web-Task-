@@ -1,0 +1,123 @@
+.asset-1-15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 2591px;
+  height: 1728px;
+  overflow: hidden;
+  opacity: 0.6;
+}
+.smartopt-one-touch-1-icon6,
+.tessera-2-icon6 {
+  position: absolute;
+  top: 152px;
+  left: 0;
+  width: 989px;
+  height: 1329px;
+  object-fit: cover;
+}
+.tessera-2-icon6 {
+  top: 55px;
+  left: 52px;
+  width: 238px;
+  height: 72px;
+}
+.smartopt8 {
+  font-weight: 600;
+}
+.smartopt-one-container13 {
+  line-break: anywhere;
+  width: 100%;
+}
+.smartopt-one-container12 {
+  position: absolute;
+  top: -240px;
+  left: 594px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  width: 539px;
+  height: 59px;
+}
+.scopri-il-terminale6 {
+  position: absolute;
+  top: -121px;
+  left: 783px;
+  width: 161.3px;
+  height: 18.93px;
+}
+.log-in-with {
+  font-weight: 500;
+}
+.one-finger {
+  font-family: var(--font-kumbh-sans);
+}
+.log-in-with-one-finger {
+  margin: 0;
+}
+.log-in-with-container,
+.one-touch-the {
+  position: absolute;
+  top: 363px;
+  left: 976px;
+  font-size: var(--font-size-26xl);
+  display: flex;
+  align-items: center;
+  width: 539px;
+  height: 136px;
+}
+.one-touch-the {
+  top: 776px;
+  font-size: var(--font-size-5xl);
+  line-height: 38px;
+  font-weight: 300;
+  height: 174px;
+}
+.touch-id-svgrepo-com-1-icon1 {
+  position: absolute;
+  top: 607px;
+  left: 976px;
+  width: 76.88px;
+  height: 76.88px;
+  overflow: hidden;
+}
+.child7 {
+  top: 498px;
+  left: 1013px;
+  border-right: 2px solid var(--color-darkgray-200);
+  box-sizing: border-box;
+  width: 2px;
+  height: 93px;
+}
+.child7,
+.child8,
+.child9 {
+  position: absolute;
+}
+.child8 {
+  top: 696px;
+  left: 1013px;
+  border-right: 2px solid var(--color-darkgray-200);
+  box-sizing: border-box;
+  width: 2px;
+  height: 93px;
+}
+.child9 {
+  top: 363px;
+  left: 504px;
+  width: 308px;
+  height: 308px;
+  opacity: 0;
+}
+.div7 {
+  position: relative;
+  background: radial-gradient(50% 50%at 50% 50%, #244942, #133730);
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-white);
+  font-family: var(--font-kumbh-sans);
+}

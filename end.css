@@ -1,0 +1,169 @@
+.smartopt-one-touch-1-icon {
+  position: absolute;
+  top: 389px;
+  left: 1202px;
+  width: 526px;
+  height: 728px;
+  object-fit: cover;
+}
+.end-child,
+.tessera-2-icon {
+  position: absolute;
+  top: 371.22px;
+  left: 813px;
+  width: 359px;
+  height: 403.1px;
+}
+.tessera-2-icon {
+  top: 55px;
+  left: 52px;
+  width: 238px;
+  height: 72px;
+  object-fit: cover;
+}
+.smartopt {
+  font-weight: 600;
+}
+.smartopt-one-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.smartopt-one-container {
+  position: absolute;
+  top: -240px;
+  left: 594px;
+  display: flex;
+  align-items: center;
+  width: 539px;
+  height: 59px;
+}
+.onetouch,
+.pro,
+.scopri-il-terminale {
+  position: absolute;
+  top: -121px;
+  left: 783px;
+  width: 161.3px;
+  height: 18.93px;
+}
+.onetouch,
+.pro {
+  top: 321px;
+  left: 28px;
+  line-height: 38px;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 390px;
+  height: 124px;
+}
+.onetouch {
+  left: 1310px;
+  font-weight: 500;
+}
+.smartopt-pro-2-icon {
+  position: absolute;
+  top: 369px;
+  left: 0;
+  width: 526px;
+  height: 748px;
+  object-fit: cover;
+}
+.end-item {
+  position: absolute;
+  top: 223px;
+  left: 464px;
+  border-radius: 31px;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0),
+    rgba(255, 255, 255, 0.04)
+  );
+  width: 800px;
+  height: 914px;
+}
+.flat-touch-screen {
+  margin: 0;
+}
+.div,
+.div1,
+.flat-touch-screen-voice-container {
+  position: absolute;
+  top: 300px;
+  left: 669px;
+  font-size: var(--font-size-3xl);
+  line-height: 44px;
+  font-weight: 300;
+  display: inline-block;
+  width: 390px;
+  height: 745px;
+}
+.div,
+.div1 {
+  left: 464px;
+  color: var(--color-darkgray-100);
+  width: 185px;
+}
+.div1 {
+  left: 1078px;
+}
+.characteristics {
+  position: absolute;
+  top: 127px;
+  left: 649px;
+  font-size: 38px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 430px;
+  height: 136px;
+}
+.request-commercial-information,
+.subtract-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.subtract-child {
+  right: 0;
+  bottom: 0;
+  border-radius: 35px;
+  background-color: var(--color-gainsboro);
+}
+.request-commercial-information {
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.subtract,
+.subtract1 {
+  width: 390px;
+  height: 70px;
+}
+.subtract1 {
+  position: relative;
+  background-color: var(--color-gainsboro);
+}
+.subtract {
+  position: absolute;
+  top: 982px;
+  left: 669px;
+  font-size: 19px;
+  color: #3f3f3f;
+}
+.end {
+  position: relative;
+  background: radial-gradient(50% 50%at 50% 50%, #162d28, #0c221e);
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-31xl);
+  color: var(--color-white);
+  font-family: var(--font-kumbh-sans);
+}
